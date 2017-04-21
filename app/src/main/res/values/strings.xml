@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Triangle App</string>
+    <string name="ninety_side">90 DEGREES</string>
+    <string name="instructions">We\'ll be calculating the unknown side of a right triangle. Enter the lengths of 2 known sides.</string>
+    <string name="title_activity_secondary">SecondaryActivity</string>
+</resources>
